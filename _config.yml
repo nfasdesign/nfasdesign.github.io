@@ -1,0 +1,7 @@
+baseurl: "/nova-home/"
+url: "https://dhrubokamal.github.io/"
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name.html

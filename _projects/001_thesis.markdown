@@ -1,0 +1,25 @@
+---
+title: Mangrove Tourist Eco-Resort
+layout: project
+thumbnail: assets/thumbnails/thesis.jpg
+image_folder: /thesis/
+
+---
+Site Areas : 13 acers
+
+Mongla is a gateway for tourist ships traveling to two UNESCO World Heritage Sites in the region, including the Sundarbans and the Mosque City of Bagerhat. The port also hosts the Mongla Export Processing Zone (Mongla EPZ).
+
+Visitors only cross path the 2nd largest port on the way to Mangrove forest, Sundarbans. But this remote site can also be an asset for attracting tourists.
+
+Mongla is South west coastal region of the country.
+0.9-2.1m avobe the sea-levels
+Country’s sceond sea port.
+
+Distance: 385km from Dhaka
+Nearest town : 40kmn from Khulna
+Torist Spots from Mongla :
+Hiron point 48kmn ( Inside Sundarbans)
+Katka 112km
+karamjal
+Mander Baria 110km
+Putni Island 106km
